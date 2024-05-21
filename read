@@ -1,0 +1,2 @@
+Yolov8_segmentation 모델을 사용하여 CrackDetection 을 하는 것이 목표.
+dataset은 roboflow에서 가져옴.
